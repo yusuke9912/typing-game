@@ -13,6 +13,7 @@
     </head>
     <body>
         <div id="app">
+            <header-component></header-component>
             <index-component></index-component>
         </div><!-- #app -->
         <script src="{{ mix('js/app.js') }}"></script>
